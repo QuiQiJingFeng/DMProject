@@ -1,4 +1,4 @@
-local util = require("Util")
+local util = require("HALL.Util")
 local CSVLoader = {}
 
 function CSVLoader:init()
