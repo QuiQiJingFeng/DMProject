@@ -1,5 +1,0 @@
-local DataManager = {}
-
-
-
-return DataManager
